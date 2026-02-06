@@ -11,6 +11,11 @@ consistency, particularly around granularity and KPI definition.
 - ~10,000 order-line records
 - Multiple product categories per order
 - Separate returns and shipping cost datasets
+- Source: Kaggle  
+  https://www.kaggle.com/datasets/kunalmalviya06/retail-sales-returns-and-shipping-dataset
+
+Note: Raw data files are not included in the repository and can be downloaded
+directly from Kaggle via the link above.
 
 ## Methodology
 - Returns were analyzed at the **order level**, as a single order may contain
